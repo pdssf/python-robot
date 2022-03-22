@@ -6,6 +6,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.chrome.options import Options
 
 dataArray = [
   {
@@ -125,7 +126,7 @@ def fillData (driver: webdriver.Chrome, data):
   driver.find_element(By.CSS_SELECTOR, 'input[value="Submit"]').click()
 
 def main():
-  driver = webdriver.Chrome(set_chrome_options) 
+  driver = webdriver.Chrome(options=set_chrome_options()) 
   driver.maximize_window()
   driver.implicitly_wait(15)
   driver.get('https://www.rpachallenge.com/')

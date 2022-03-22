@@ -1,0 +1,78 @@
+[2J[HCONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+[2J[HCONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+[2J[HCONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+[2J[HCONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+[2J[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O     BLOCK I/O   PIDS
+7354a873edd3   stoic_carver   0.00%     2.863MiB / 13.66GiB   0.02%     220B / 0B   0B / 0B     1
+[2J[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O     BLOCK I/O   PIDS
+7354a873edd3   stoic_carver   0.00%     2.863MiB / 13.66GiB   0.02%     220B / 0B   0B / 0B     1
+[2J[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT    MEM %     NET I/O       BLOCK I/O     PIDS
+7354a873edd3   stoic_carver   64.35%    74.5MiB / 13.66GiB   0.53%     1.03kB / 0B   0B / 16.4kB   60
+[2J[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT    MEM %     NET I/O       BLOCK I/O     PIDS
+7354a873edd3   stoic_carver   64.35%    74.5MiB / 13.66GiB   0.53%     1.03kB / 0B   0B / 16.4kB   60
+[2J[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O    PIDS
+7354a873edd3   stoic_carver   8.69%     81.4MiB / 13.66GiB   0.58%     5.27kB / 1.69kB   0B / 176kB   73
+[2J[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O    PIDS
+7354a873edd3   stoic_carver   8.69%     81.4MiB / 13.66GiB   0.58%     5.27kB / 1.69kB   0B / 176kB   73
+[2J[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+7354a873edd3   stoic_carver   84.14%    105.6MiB / 13.66GiB   0.76%     1.37MB / 18.8kB   0B / 184kB   63
+[2J[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+7354a873edd3   stoic_carver   84.14%    105.6MiB / 13.66GiB   0.76%     1.37MB / 18.8kB   0B / 184kB   63
+[2J[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+7354a873edd3   stoic_carver   115.81%   129.6MiB / 13.66GiB   0.93%     1.59MB / 28.3kB   0B / 184kB   65
+[2J[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+7354a873edd3   stoic_carver   115.81%   129.6MiB / 13.66GiB   0.93%     1.59MB / 28.3kB   0B / 184kB   65
+[2J[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+7354a873edd3   stoic_carver   169.17%   133.4MiB / 13.66GiB   0.95%     1.59MB / 28.3kB   0B / 10.9MB   65
+[2J[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+7354a873edd3   stoic_carver   169.17%   133.4MiB / 13.66GiB   0.95%     1.59MB / 28.3kB   0B / 10.9MB   65
+[2J[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+7354a873edd3   stoic_carver   161.64%   140.6MiB / 13.66GiB   1.01%     1.59MB / 28.3kB   0B / 10.9MB   65
+[2J[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+7354a873edd3   stoic_carver   161.64%   140.6MiB / 13.66GiB   1.01%     1.59MB / 28.3kB   0B / 10.9MB   65
+[2J[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+7354a873edd3   stoic_carver   161.92%   144.9MiB / 13.66GiB   1.04%     1.59MB / 28.4kB   0B / 12.2MB   65
+[2J[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+7354a873edd3   stoic_carver   161.92%   144.9MiB / 13.66GiB   1.04%     1.59MB / 28.4kB   0B / 12.2MB   65
+[2J[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+7354a873edd3   stoic_carver   153.04%   150.9MiB / 13.66GiB   1.08%     1.6MB / 28.4kB   0B / 12.2MB   65
+[2J[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+7354a873edd3   stoic_carver   153.04%   150.9MiB / 13.66GiB   1.08%     1.6MB / 28.4kB   0B / 12.2MB   65
+[2J[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+7354a873edd3   stoic_carver   214.09%   146.1MiB / 13.66GiB   1.04%     1.6MB / 28.4kB   0B / 12.2MB   65
+[2J[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+7354a873edd3   stoic_carver   214.09%   146.1MiB / 13.66GiB   1.04%     1.6MB / 28.4kB   0B / 12.2MB   65
+[2J[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O     PIDS
+7354a873edd3   stoic_carver   168.70%   150MiB / 13.66GiB   1.07%     1.6MB / 28.4kB   0B / 15.9MB   65
+[2J[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O     PIDS
+7354a873edd3   stoic_carver   168.70%   150MiB / 13.66GiB   1.07%     1.6MB / 28.4kB   0B / 15.9MB   65
+[2J[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+7354a873edd3   stoic_carver   158.20%   150.3MiB / 13.66GiB   1.07%     1.6MB / 28.4kB   0B / 15.9MB   67
+[2J[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+7354a873edd3   stoic_carver   158.20%   150.3MiB / 13.66GiB   1.07%     1.6MB / 28.4kB   0B / 15.9MB   67
+[2J[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O   PIDS
+7354a873edd3   stoic_carver   147.92%   154.6MiB / 13.66GiB   1.11%     1.6MB / 28.4kB   0B / 19MB   67
+[2J[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O   PIDS
+7354a873edd3   stoic_carver   147.92%   154.6MiB / 13.66GiB   1.11%     1.6MB / 28.4kB   0B / 19MB   67
+[2J[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O   PIDS
+7354a873edd3   stoic_carver   156.81%   156.7MiB / 13.66GiB   1.12%     1.6MB / 28.4kB   0B / 19MB   67
+[2J[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O   PIDS
+7354a873edd3   stoic_carver   156.81%   156.7MiB / 13.66GiB   1.12%     1.6MB / 28.4kB   0B / 19MB   67
+[2J[HCONTAINER ID   NAME           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O   PIDS
+7354a873edd3   stoic_carver   149.05%   160.3MiB / 13.66GiB   1.15%     1.6MB / 28.4kB   0B / 19MB   67
+[2J[HCONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+[2J[HCONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+[2J[HCONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+[2J[HCONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+[2J[HCONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+[2J[HCONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+[2J[HCONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+[2J[HCONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+[2J[HCONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+[2J[HCONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+[2J[HCONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+[2J[HCONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+[2J[HCONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+[2J[HCONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+[2J[HCONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
+[2J[HCONTAINER ID   NAME      CPU %     MEM USAGE / LIMIT   MEM %     NET I/O   BLOCK I/O   PIDS
