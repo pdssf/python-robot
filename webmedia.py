@@ -1,4 +1,3 @@
-from matplotlib.pyplot import title
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
@@ -7,11 +6,11 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.chrome.options import Options
 
 sessionsSiteArray = [
+    # {
+    #     'site': 'https://webmedia.org.br/2020/programacao-em-html/#st1',
+    #     'year': 2020
+    # },
     {
-        'site': 'https://webmedia.org.br/2020/programacao-em-html/#st1',
-        'year': 2020
-    }
-    ,{
     'site': 'https://webmedia.org.br/2019/programacao-em-html/#st1',
     'year': 2019
     }
@@ -23,7 +22,7 @@ def set_chrome_options() -> None:
     Chrome options for headless browser is enabled.
     """
     chrome_options = Options()
-    # chrome_options.add_argument("--headless")
+    chrome_options.add_argument("--headless")
     chrome_options.add_argument("--no-sandbox")
     chrome_options.add_argument("--disable-dev-shm-usage")
     chrome_prefs = {}
@@ -82,11 +81,11 @@ def getData(driver: webdriver.Chrome, year):
             })
 
     print(sessionsArray)
-    writeToFile(sessionsArray, year)
+    # writeToFile(sessionsArray, year)
 
 
 def main():
-    driver = webdriver.Chrome('./chromedriver')
+    driver = webdriver.Chrome(options=set_chrome_options()) 
     #   driver.maximize_window()
     driver.implicitly_wait(15)
     for session in sessionsSiteArray:

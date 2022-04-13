@@ -1,7 +1,6 @@
 # extracted from https://github.com/nazliander/scrape-nr-of-deaths-istanbul/blob/master/Dockerfile  
 FROM python:3.8
 
-COPY . /app
 WORKDIR /app
 
 RUN mkdir __logger
@@ -20,8 +19,9 @@ RUN unzip /tmp/chromedriver.zip chromedriver -d /usr/local/bin/
 # set display port to avoid crash
 ENV DISPLAY=:99
 
-RUN pip install --upgrade pip
+COPY . /app
+# RUN pip install --upgrade pip
 
 RUN pip install -r requirements.txt
 
-CMD ["python", "./app.py"]
+CMD ["python", "./webmedia.py"]
